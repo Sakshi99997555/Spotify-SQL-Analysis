@@ -113,3 +113,6 @@ Visualize key findings using tools like Tableau or Power BI.
 Acknowledgments
 Special thanks to Spotify for the dataset and SQL for enabling structured data analysis.
 
+![proj_4](https://github.com/user-attachments/assets/3c697b9c-125a-4713-9888-76569062a650)
+
+
